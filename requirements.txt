@@ -1,0 +1,12 @@
+streamlit
+streamlit-autorefresh
+groq
+PyPDF2
+SpeechRecognition
+gTTS
+youtube-transcript-api
+google-api-python-client
+google-auth-oauthlib
+firebase-admin
+openai
+requests
